@@ -1,24 +1,99 @@
-<h1 align="center">Namaste 🙏, I'm Ranjan</h1>
-<h3 align="center">A passionate programmer from India</h3>
 
-- 🔭 I’m currently working on **expanding my skills in AI and ML.**
 
-- 👯 I’m looking to collaborate on **Frontend Web development projects.**
+###
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ranjan-n](https://github.com/Ranjan-n)
+  <h1 align="center">Hello !! , Namaste 🙏</h1>
 
-- 📫 How to reach me **ranjann2004@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ranjan-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ranjan-n" height="30" width="40" /></a>
-<a href="https://twitter.com/ranjan_n07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjan_n07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ranjan-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjan-n" height="30" width="40" /></a>
-<a href="https://instagram.com/ranjan_2k04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranjan_2k04" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/1si22ci064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1si22ci064" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ranjan_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ranjan_n" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ranjann2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjann2004" height="30" width="40" /></a>
-</p>
+<h3 align="left">👩‍💻 About Me</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+###
+
+<p align="left">I'm Ranjan<br>- 🔭 Student of Computer Science specializing in Artificial Intelligence & Machine Learning at Siddaganga Institute of Technology.<br>- 📚 My passion lies in programming, particularly in Java.<br>- 👨🏻‍💻 Beyond coding, I'm captivated by Java's versatility and its role in shaping modern technology.<br>- 💻 I'm currently expanding my skills in AI and ML.<br>- ⚡ I usually code, play video games,listen to songs, play Shuttle Badminton</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ranjan-n/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Ranjan_N07?t=ZzmrzkEz8BOFIYp8TLmO5A&s=08" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="mailto:ranjann2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Tech Stack:</h3>
+
+###
+
+<h5 align="center">Web Devlopment</h5>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="jquery logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo" />
+</div>
+
+
+###
+
+<h5 align="center">Programming Languages</h5>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30" alt="java logo" />
+</div>
+
+
+###
+
+<h4 align="center">AIML</h4>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="excel logo"  /> <img width="12" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="30" alt="excel logo"  />
+</div>
+
+###
+
+<h3 align="left">My Stats 🔥:</h3>
+
+<div align="center">
+  <a href="https://leetcode.com/Ranjann2004/" target="_blank">
+    <img src="https://leetcode-stats-six.vercel.app/?username=Ranjann2004&theme=dark" alt="LeetCode Streak" />
+  </a><br>
+  
+  <a href="https://www.hackerrank.com/1SI22CI064" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&theme=dark" height="30" alt="HackerRank" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/Ranjan_N" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&theme=dark" height="30" alt="Codeforces" />
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ranjan-n&color=blueviolet&style=for-the-badge" alt="Profile Visits" />
+</div>
