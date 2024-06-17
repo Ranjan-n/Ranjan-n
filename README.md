@@ -87,12 +87,12 @@
 
 ###
 
-<h3 align="left">My Stats 🔥:</h3>
+<h3 align="left">My Stats :</h3>
 
 <div align="center">
   <a href="https://leetcode.com/Ranjann2004/" target="_blank">
-    <img src="https://leetcode-stats-six.vercel.app/?username=Ranjann2004&theme=dark" alt="LeetCode Streak" />
-  </a><br>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&theme=dark" height="30" alt="LeetCode" />
+</a>
   
   <a href="https://www.hackerrank.com/1SI22CI064" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&theme=dark" height="30" alt="HackerRank" />
@@ -102,7 +102,6 @@
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&theme=dark" height="30" alt="Codeforces" />
   </a>
 </div>
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ranjan-n&color=blueviolet&style=for-the-badge" alt="Profile Visits" />
