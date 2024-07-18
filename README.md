@@ -2,7 +2,7 @@
 
 ###
 
-  <h1 align="center">Hello !! , Namaste 🙏</h1>
+  <h1 align="center">Hello !! , Namasthe 🙏</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Ranjan<br>- 🔭 Student of Computer Science specializing in Artificial Intelligence & Machine Learning at Siddaganga Institute of Technology.<br>- 📚 My passion lies in programming, particularly in Java.<br>- 👨🏻‍💻 Beyond coding, I'm captivated by Java's versatility and its role in shaping modern technology.<br>- 💻 I'm currently expanding my skills in AI and ML.<br>- ⚡ I usually code, play video games,listen to songs, play Shuttle Badminton</p>
+<p align="left">I'm Ranjan<br>- 🧑‍🎓 Student of Computer Science specializing in Artificial Intelligence & Machine Learning at Siddaganga Institute of Technology.<br>- 👨🏻‍💻 My passion lies in programming, particularly in Java and a passionate learner in web development 🕸️ <br>- 💻 I'm currently expanding my skills in AI and ML.<br>- ⚡ I usually code, play video games,listen to songs, play Shuttle Badminton</p>
 
 ###
 
@@ -101,6 +101,10 @@
   <a href="https://codeforces.com/profile/Ranjan_N" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&theme=dark" height="30" alt="Codeforces" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Ranjann2004?theme=dark&font=Raleway&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <div align="center">
