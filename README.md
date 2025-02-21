@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_private=true&count_private=true" alt="Top Languages" />
 </div>
 
 <div align="center">
