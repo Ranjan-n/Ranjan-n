@@ -5,7 +5,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_private=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan-n&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ranjan-n&theme=tokyonight" alt="Top Languages by Repo" />
 </div>
 
 <div align="center">
